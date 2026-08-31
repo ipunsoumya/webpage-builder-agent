@@ -1,0 +1,1 @@
+The Project Manager of the pipeline. It handles the end-to-end workflow, taking the raw user input and seamlessly managing the handoffs between the Requirement Writer, Designer, and Code Writer to ensure a frictionless journey from idea to finished file.

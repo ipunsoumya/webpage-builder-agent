@@ -1,0 +1,1 @@
+The Developer of the pipeline. It takes the strict layout and visual specifications from the Designer Agent and writes a production-ready, single-file HTML document (with embedded styles and scripts), utilizing its file-writing tool to save the final product.
