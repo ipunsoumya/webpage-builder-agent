@@ -4,7 +4,7 @@ from pathlib import Path
 
 def write_to_file(content: str) -> dict:
     """
-    Writes the given content to a file named 'output.txt'.
+    Writes the given content to a file named output/<timestamp>_generated_page.html under the /output/ directory.
     Args:
         content (str): The content to be written to the file.
     Returns:
